@@ -1,0 +1,15 @@
+.head-container {
+  height: 14vh;
+  width: 60%;
+  padding: 0.3rem 0.5rem;
+  display: flex;
+  background-color: #fff;
+  border: 1px solid lightgray;
+  overflow-x: scroll;
+  overflow-y: hidden;
+}
+
+::-webkit-scrollbar {
+  width: 1px;
+  height: 1px;
+}
